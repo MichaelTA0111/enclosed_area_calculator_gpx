@@ -1,0 +1,4 @@
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="maps.ie"><metadata><name>test_line</name><desc></desc><time>2020-12-20 13:24:35</time></metadata><trk><name></name><desc>stroke=#2593d9
+fill=#2593d9
+stroke-opacity=1
+stroke-width=3</desc><trkseg><trkpt lat="52.749698" lon="-3.90624"><ele>-1</ele></trkpt><trkpt lat="52.765385" lon="-3.590469"><ele>-1</ele></trkpt></trkseg></trk></gpx>
